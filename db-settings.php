@@ -5,10 +5,10 @@
  * Date: 3/20/2017
  * Time: 12:39 PM
  */
-$db_host = "localhost"; //Host address (most likely localhost)
-$db_name = "customer"; //Name of Database
-$db_user = "root"; //Name of database user
-$db_pass = ""; //Password for database user
+$db_host = "sql9.freemysqlhosting.net"; //Host address (most likely localhost)
+$db_name = "sql9173381"; //Name of Database
+$db_user = "sql9173381"; //Name of database user
+$db_pass = "R99eCtjt8h"; //Password for database user
 $db_table_prefix = ""; // if the table prefix exists use this variable as a global
 
 
